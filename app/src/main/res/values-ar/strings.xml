@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="order_summary" translatable="false">"مواصفات الطلب: "</string>
+    <string name="thank_you" translatable="false">شكرًا</string>
+    <string name="toppings" translatable="false">الإضافات</string>
+    <string name="chocolate" translatable="false">شيكولاتة</string>
+    <string name="less_order_coffee" translatable="false">لا يمكنك طلب أقل من كوب قهوة.</string>
+    <string name="mail_subject_for_order" translatable="false">بيان طلب القهوة لـ</string>
+    <string name="name" translatable="false">الاسم</string>
+    <string name="order" translatable="false">اطلب</string>
+    <string name="order_summary_chocolate" translatable="false">إضافة شيكولاتة؟</string>
+    <string name="order_summary_name" translatable="false">"الاسم: "</string>
+    <string name="order_summary_quantity" translatable="false">الكمية:</string>
+    <string name="order_summary_total" translatable="false">الإجمالي: £</string>
+    <string name="order_summary_whipped_cream" translatable="false">إضافة كريمة مخفوقة؟</string>
+    <string name="over_order_coffee" translatable="false">لا يمكنك طلب أكثر من 100 كوب قهوة.</string>
+    <string name="quantity" translatable="false">الكمية</string>
+    <string name="whipped_cream" translatable="false">"كريمة مخفوقة "</string>
+</resources>

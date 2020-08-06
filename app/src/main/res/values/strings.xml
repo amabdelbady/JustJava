@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Just Java</string>
+
+    <!-- activity_main XML file Strings -->
+    <string name="name" translatable="false">Name</string>
+    <string name="toppings" translatable="false">Toppings</string>
+    <string name="whipped_cream" translatable="false">Whipped Cream</string>
+    <string name="chocolate" translatable="false">Chocolate</string>
+    <string name="quantity" translatable="false">Quantity</string>
+    <string name="order_summary" translatable="false">Order Summary:</string>
+    <string name="order" translatable="false">Order</string>
+
+
+    <!-- MainActivity Java file Strings -->
+    <string name="thank_you" translatable="false">Thank You!</string>
+    <string name="over_order_coffee" translatable="false">You cannot order over 100 cups of coffee.</string>
+    <string name="less_order_coffee" translatable="false">You cannot order less than 1 cup of coffee.</string>
+    <string name="mail_subject_for_order" translatable="false">Coffee Order Summary for </string>
+    <string name="order_summary_name" translatable="false">Name: </string>
+    <string name="order_summary_whipped_cream" translatable="false">Add Whipped Cream?</string>
+    <string name="order_summary_chocolate" translatable="false">Add Chocolate? </string>
+    <string name="order_summary_quantity" translatable="false">Quantity:</string>
+    <string name="order_summary_total" translatable="false">Total: £ </string>
+</resources>
